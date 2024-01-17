@@ -18,6 +18,7 @@ In this way, tech companies are collecting and tracking our data. Here is one qu
 
 ## Data collection
 Recently, any web page that we visit will ask us to agree on essential cookies and privacy policy and need to choose whether we accept all cookies or not. By clicking 'Yes' or 'Agree' at the end of the privacy policy that appears when you open a web page, we allow companies to collect our data. 
+
 ![image](https://github.com/2300260/CS220AU-DP/blob/main/assets/img/world%20data.png)
 Photo by [iStock](https://www.istockphoto.com/search/2/image?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fja%2Fs%2F%25E5%2586%2599%25E7%259C%259F%2Fdata-world&utm_medium=affiliate&utm_source=unsplash&utm_term=data+world%3A%3A%3A&alloweduse=availableforalluses&excludenudity=true&mediatype=photography&phrase=data+world&sort=best) 
 
