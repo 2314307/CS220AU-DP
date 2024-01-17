@@ -56,5 +56,6 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 | 2.1       |     |     |  o  |     |     |
 | 2.2       |     |     |     |  o  |     |
 | 3.1       |     |  o  |     |     |     |
-
-Feedback given by: <!-- add student number and date -->
+Structure is well explained
+The way you given the references are also well organized. In the digital identites paragraph where you are explaining about it in that line you have given extra spacing on the first sentence. The work was reasonable and well written, but the descripted the structure needed to be improved to address the specific of the data. You must ensure you fully understood about the information which you are providing and address it carefully.However, The example which you have given and the way you have presented in knowledge and the concept is markable. Your digital portfolio could benefit from a more detailed exploration of how AI intersects with psychedelic music. Consider providing specific examples or projects where AI has been applied to generate or enhance psychedelic music. Discuss the algorithms, techniques, or tools used, emphasizing the technical aspects alongside the creative outcomes. Additionally, highlight any insights gained from this fusion, such as the exploration of new sonic landscapes or the potential for AI to contribute to evolving music genres. This will give your audience a deeper understanding of your expertise and the innovative connections you're making between technology and art.
+Feedback given by: <!-- 2314307 17-01-2024-->
